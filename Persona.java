@@ -1,3 +1,6 @@
+/**
+ * @author Daw120
+ */
 class Persona {
     
    //atributos de clase Persona:
