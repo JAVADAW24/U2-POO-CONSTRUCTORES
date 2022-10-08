@@ -1,3 +1,6 @@
+/**
+ * @author Daw120
+ */
 package com.solomongo.principal;
 public class Principal {
     public static void main(String[] args) {
